@@ -3,3 +3,5 @@
 I am a hobbyist self-taught web developer, currently on the learning process of JS, ReactJS and possible in the near future C#!
 
 I try to code as much as possible in my spare time, unfortunately it is very slim to none!
+
+You can check my personal website here https://justaway1.github.io/theportfolio/
