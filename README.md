@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stanislav Angelov</h1>
-<h3 align="center">A self-taught web developer! I try to code as much as possible in my spare time, 
-unfortunately it is very slim to none! </h3>
+<h3 align="center">A self-taught web developer! I try to code as much as possible in my spare time.</h3>
 
 **You can check my personal website [here](https://justaway1.github.io/theportfolio/)**
 
