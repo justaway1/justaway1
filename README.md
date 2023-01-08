@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stanislav Angelov</h1>
 <h3 align="center">A self-taught web developer! I try to code as much as possible in my spare time.</h3>
 
-**You can check my personal website [here](https://justaway1.github.io/theportfolio/)**
+**You can check my personal website [here](https://justaway1.github.io/Portfolio/)**
 
 - 🌱 I am on a learning process of: **HTML5, CSS3, JQuary, JS**
 
