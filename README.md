@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stanislav Angelov</h1>
-<h3 align="center">A self-taught web developer! I try to code as much as possible in my spare time</h3>
+<h3 align="center">A self-taught web developer! e. I want to make a
+breakthrough in the professional field, gain experience and improve my skills and knowledge.</h3>
 
 - 🌱 I am on a learning process of **HTML5, CSS3, JQuary, JS, SQL, Bootstrap, C#.!**
 
