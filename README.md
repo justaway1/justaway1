@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stanislav Angelov</h1>
-<h3 align="center">A self-taught web developer! e. I want to make a
-breakthrough in the professional field, gain experience and improve my skills and knowledge.</h3>
+<h3 align="center">Aspiring web developer with experience in HTML, CSS, Bootstrap and JavaScript who is interested in learning more about web development. Due to my passion for web development and user interface, I am currently pivoting my career from pre-printer to web designer.</h3>
 
 - 🌱 I am on a learning process of **HTML5, CSS3, JQuary, JS, SQL, Bootstrap, C#.!**
 
