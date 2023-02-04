@@ -3,7 +3,7 @@
 
 - 🌱 I am on a learning process of **HTML5, CSS3, JQuary, JS, SQL, Bootstrap, C#.!**
 
-**You can live preview [here](https://justaway1.github.io/Portfolio/)**
+**[My official Portfolio WebSite](https://justaway1.github.io/Portfolio/)**
 
 - 📫 You can reach me at: **stannyweb@gmail.com**
 
