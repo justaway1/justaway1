@@ -5,8 +5,6 @@ friendly web applications. Seeking a challenging
 position to leverage my skills in front-end development
 and contribute to innovative web projects.</h3>
 
-- 🌱 I am on a learning process of **HTML5, CSS3, JQuary, JS, SQL, Bootstrap, ReactJS.!**
-
 **[My official Portfolio WebSite](https://justaway1.github.io/stannyweb/)**
 
 - 📫 You can reach me at: **stannyweb@gmail.com**
