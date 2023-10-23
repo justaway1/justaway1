@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stanislav Angelov</h1>
-<h3 align="center">Aspiring web developer with experience in HTML, CSS, Bootstrap and JavaScript who is interested in learning more about web development. Due to my passion for web development and user interface, I am currently pivoting my career from pre-printer to web designer.</h3>
+<h3 align="center">Dedicated and detail-oriented Front-End Developer with
+a passion for creating visually stunning and user-
+friendly web applications. Seeking a challenging
+position to leverage my skills in front-end development
+and contribute to innovative web projects.</h3>
 
 - 🌱 I am on a learning process of **HTML5, CSS3, JQuary, JS, SQL, Bootstrap, ReactJS.!**
 
