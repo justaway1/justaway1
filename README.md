@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stanislav Angelov</h1>
 <h3 align="center">Dedicated and detail-oriented Front-End Developer with
 a passion for creating visually stunning and user-
-friendly web applications. Seeking a challenging
-position to leverage my skills in front-end development
-and contribute to innovative web projects.</h3>
+friendly web applications.</h3>
 
 **[My official Portfolio WebSite](https://justaway1.github.io/stannyweb/)**
 
